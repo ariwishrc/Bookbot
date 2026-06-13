@@ -9,6 +9,6 @@ Currently there is 2 books in Books/ (for testing purposes)
 - Vigilante.txt
 - The_Space_Saga_of_Rocket.txt
 
-# How to run
-1. make sure python is installed
-2. run python bookbot.py books/Vigilante.txt
+# How to Run
+1. Make sure python is installed
+2. run ```python bookbot.py books/Vigilante.txt```
